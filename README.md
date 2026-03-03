@@ -1,6 +1,4 @@
 # 🏥 Disease Prediction & Drug Recommendation System
-### Final Year Major Project (2024)
-### Department of Artificial Intelligence and Data Science (AI & DS)
 
 A machine learning system that predicts diseases based on symptoms and recommends medications using patient review data analysis.
 
@@ -106,14 +104,3 @@ Disease-Prediction-and-Drug-Recommendation-Prototype/
 4. Explore the interactive visualization of drug recommendations
 ## ⚠️ Disclaimer
 This system is a prototype for educational purposes. Always consult healthcare professionals for medical advice.
-
-## 👨‍💻 Project Team
-- Student Name: Puneeth Raj
-- Roll Number: 21831A7251
-- Supervisor: Sheeltal Kundra
-- Department: Artificial Intelligence and Data Science (AI & DS)
-
-## 📧 Contact
-Student Email: [puneeth@duck.com](mailto:puneeth@duck.com)
-
-Project Link: [GitHub Repository](https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype)
